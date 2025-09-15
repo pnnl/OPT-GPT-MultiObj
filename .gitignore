@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore environment files
+.env
+Vent/
+.venv/
+
+# Ignore unnecessary system files
+.DS_Store
+Thumbs.db
+
+# Ignore streamline temporary files
+.streamlit/
+
+# Ignore Jupyter notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# Ignore calculation word docs
+emissions_calculation_Ala.docx
+emissions_calculation.docx
+Highway_rail_freigt_calculations.docx
