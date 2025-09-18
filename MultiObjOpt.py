@@ -18,125 +18,93 @@ freight_volume = {
     "Maritime": 220.998
 }
 fuel_consumption = {
-    "petroleum diesel": {
-        "Highway": 20,
-        "Rail": 6,
-        "Maritime": 14,
+    "Highway": {
+        "petroleum diesel": 0.008,
+        "e-diesel": 0.008,
+        "renewable diesel": 0.008,
+        "FT biofuels": 0.008,
+        "FT biofuels CCS": 0.008,
+        "hydrogen": 0.009,
+        "LNG": 0.006,
+        "electricity": 0.095,
     },
-    "e-diesel": {
-        "Highway": 20,
-        "Rail": 6,
+    "Rail": {
+        "petroleum diesel": 0.00189,
+        "e-diesel": 0.00189,
+        "renewable diesel": 0.00189,
+        "FT biofuels": 0.00236,
+        "FT biofuels CCS": 0.00182,
+        "hydrogen": 0.00189,
+        "LNG": 0.00108,
+        "electricity": 0.0383,
     },
-    "FT biofuels": {
-        "Highway": 20,
-        "Rail": 6,
-    },
-    "FT biofuels CCS": {
-        "Highway": 20,
-        "Rail": 6,
-    },
-    "renewable diesel": {
-        "Highway": 20,
-        "Rail": 6,
-    },
-    "ammonia": {
-        "Maritime": 35,
-    },
-    "hydrogen": {
-        "Highway": 8,
-        "Rail": 1.8,
-        "Maritime": 6,
-    },
-    "LNG": {
-        "Highway": 24,
-        "Rail": 5,
-        "Maritime": 12,
-    },
-    "electricity": {
-        "Highway": 3.6,
-        "Rail": 3.6,
+    "Maritime": {
+        "petroleum diesel": 1.08,
+        "ammonia": 2.5, 
+        "hydrogen": 0.69,
+        "LNG": 1.18,
     }
 }
 
 # Fuel inputs (LHV MJ/Kg and Rho Kg/gallon: i.e., density)
 LHV = {
-    "petroleum diesel": {
-        "Highway": 42.8,
-        "Rail": 42.8,
-        "Maritime": 42.8,
+    "Highway": {
+        "petroleum diesel": 135.56,
+        "e-diesel": 135.56,
+        "renewable diesel": 135.56,
+        "FT biofuels": 126.132,
+        "FT biofuels CCS": 130.52,
+        "hydrogen": 119.88,
+        "LNG": 22.409,
+        "electricity": 3.6,
     },
-    "e-diesel": {
-        "Rail": 42.8,
-        "Highway": 42.8,
+    "Rail": {
+        "petroleum diesel": 135.56,
+        "e-diesel": 135.56,
+        "renewable diesel": 135.56,
+        "FT biofuels": 126.132,
+        "FT biofuels CCS": 130.52,
+        "hydrogen": 119.88,
+        "LNG": 22.409,
+        "electricity": 3.6,
     },
-    "renewable diesel": {
-        "Rail": 42.8,
-        "Highway": 42.8,
-    },
-    "FT biofuels": {
-        "Rail": 42.8,
-        "Highway": 42.8,
-    },
-    "FT biofuels CCS": {
-        "Rail": 42.8,
-        "Highway": 42.8,
-    },
-    "ammonia": {
-        "Maritime": 18.6,
-    },
-    "hydrogen": {
-        "Highway": 120,
-        "Rail": 120,
-        "Maritime": 120,
-    },
-    "LNG": {
-        "Highway": 45,
-        "Rail": 45,
-        "Maritime": 45,
-    },
-    "electricity": {
-        "Highway": 0.125,
-        "Rail": 0.03,
-    },
+    "Maritime": {
+        "petroleum diesel": 42.8,
+        "ammonia": 18.6, 
+        "hydrogen": 120,
+        "LNG": 120,
+    }
 }
 RHO = {
-    "petroleum diesel": {
-        "Highway": 3.25,
-        "Rail": 3.25,
-        "Maritime": 3.25,
+    "Highway": {
+        "petroleum diesel": 3.25,
+        "e-diesel": 3.25,
+        "renewable diesel": 3.25,
+        "FT biofuels": 3.25,
+        "FT biofuels CCS": 3.25,
+        "hydrogen": 0.268,
+        "LNG": 1.89,
+        "electricity": 1,
     },
-    "e-diesel": {
-        "Rail": 3.25,
-        "Highway": 3.25,
+    "Rail": {
+        "petroleum diesel": 3.25,
+        "e-diesel": 3.25,
+        "renewable diesel": 3.25,
+        "FT biofuels": 3.25,
+        "FT biofuels CCS": 3.25,
+        "hydrogen": 0.268,
+        "LNG": 1.89,
+        "electricity": 1,
     },
-    "renewable diesel": {
-        "Rail": 3.25,
-        "Highway": 3.25,
-    },
-    "FT biofuels": {
-        "Rail": 3.25,
-        "Highway": 3.25,
-    },
-    "FT biofuels CCS": {
-        "Rail": 3.25,
-        "Highway": 3.25,
-    },
-    "ammonia": {
-        "Maritime": 2.58,
-    },
-    "hydrogen": {
-        "Highway": 0.268,
-        "Rail": 0.268,
-        "Maritime": 0.268,
-    },
-    "LNG": {
-        "Highway": 1.89,
-        "Rail": 1.89,
-        "Maritime": 1.89,
-    },
+    "Maritime": {
+        "petroleum diesel": 3.25,
+        "ammonia": 2.58, 
+        "hydrogen": 0.268,
+        "LNG": 1.89,
+    }
 }
 # Calculate prices and emissions for the baseline 2050 case (fuel=petroleum diesel)
-BaselineOutputs = BaselineObj.Run(df_prices, df_ghg, LHV, RHO, freight_volume)
+BaselineOutputs = BaselineObj.Run(df_prices, df_ghg, LHV, RHO, fuel_consumption, freight_volume)
 
 (highway_base_prices, rail_base_prices, maritime_base_prices, highway_base_ghg, rail_base_ghg, maritime_base_ghg) = BaselineOutputs
 
@@ -194,8 +162,8 @@ def optimize_fuel_allocation(dframe_prices, dframe_ghg, baseline_cost, baseline_
         # Extract the rows corresponding to the current scenario
         # Remove Ammonia for Highway and Rail, remove different fuels for maritime
         if mode == "Highway" or mode == "Rail":
-            scenario_df_prices = filtered_df_prices[(filtered_df_prices['scenario'] == scenario) & (~filtered_df_prices['reporting_fuel'].isin(['ammonia', 'electricity']))]
-            scenario_df_ghg = filtered_df_ghg[(filtered_df_ghg['scenario'] == scenario) & (~filtered_df_ghg['fuel'].isin(['ammonia', 'electricity']))]
+            scenario_df_prices = filtered_df_prices[(filtered_df_prices['scenario'] == scenario) & (~filtered_df_prices['reporting_fuel'].isin(['ammonia']))]
+            scenario_df_ghg = filtered_df_ghg[(filtered_df_ghg['scenario'] == scenario) & (~filtered_df_ghg['fuel'].isin(['ammonia']))]
         else:
             scenario_df_prices = filtered_df_prices[(filtered_df_prices['scenario'] == scenario) & (~filtered_df_prices['reporting_fuel'].isin(['e-diesel', 'electricity', 'FT biofuels', 'FT biofuels CCS', 'renewable diesel']))]
             scenario_df_ghg = filtered_df_ghg[(filtered_df_ghg['scenario'] == scenario) & (~filtered_df_ghg['fuel'].isin(['e-diesel', 'electricity', 'FT biofuels', 'FT biofuels CCS', 'renewable diesel']))]
@@ -213,12 +181,12 @@ def optimize_fuel_allocation(dframe_prices, dframe_ghg, baseline_cost, baseline_
         fuel_costs = {}
         for fuels in reporting_fuels:
             if mode=="Highway":
-                fuel_costs[fuels] = gcam_fuel_costs[gcam_fuel_costs['reporting_fuel'] == fuels]['price_USDperGJ'].values * RHO[fuels]['Highway'] * (LHV[fuels]['Highway']/1000)*2.636e-2*freight_volume['Highway']
+                fuel_costs[fuels] = gcam_fuel_costs[gcam_fuel_costs['reporting_fuel'] == fuels]['price_USDperGJ'].values * float(fuel_consumption['Highway'][fuels]) * (float(LHV['Highway'][fuels])/1000)*float(freight_volume['Highway'])
             elif mode=="Rail":
-                fuel_costs[fuels] = gcam_fuel_costs[gcam_fuel_costs['reporting_fuel'] == fuels]['price_USDperGJ'].values * RHO[fuels]['Rail'] * (LHV[fuels]['Rail']/1000)*2.636e-2*freight_volume['Rail']
+                fuel_costs[fuels] = gcam_fuel_costs[gcam_fuel_costs['reporting_fuel'] == fuels]['price_USDperGJ'].values * float(fuel_consumption['Rail'][fuels]) * (float(LHV['Rail'][fuels])/1000)*float(freight_volume['Rail'])
             elif mode=="Maritime":
-                fuel_prices = gcam_fuel_costs[gcam_fuel_costs['reporting_fuel'] == fuels]['price_USDperGJ'].values * RHO[fuels]['Maritime'] * (LHV[fuels]['Maritime']/1000)
-                fuel_costs[fuels] = 0.01*(2.636e-2 * fuel_prices + 8.841e-3 * 27.34 + 4.47e-6 * 287331 + 1.0411) * freight_volume['Maritime']
+                fuel_prices = gcam_fuel_costs[gcam_fuel_costs['reporting_fuel'] == fuels]['price_USDperGJ'].values * float(RHO['Maritime'][fuels]) * (float(LHV['Maritime'][fuels])/1000)
+                fuel_costs[fuels] = 0.01*(2.636e-2 * fuel_prices + 8.841e-3 * 27.34 + 4.47e-6 * 287331 + 1.0411) * float(freight_volume['Maritime'])
             else:
                 print(f"Fuel cost allocation failed for scenario: {scenario}")
             
@@ -231,11 +199,11 @@ def optimize_fuel_allocation(dframe_prices, dframe_ghg, baseline_cost, baseline_
         fuel_ghg = {}
         for fuels in reporting_fuels:
             if mode=="Highway":
-                fuel_ghg[fuels] = fuel_ghg_df[fuels] * (LHV[fuels]['Highway']/1000) * fuel_consumption[fuels]['Highway'] * freight_volume['Highway'] #Million KgCO2eq
+                fuel_ghg[fuels] = fuel_ghg_df[fuels] * (float(LHV['Highway'][fuels])/1000) * float(fuel_consumption['Highway'][fuels]) * float(freight_volume['Highway']) #Million KgCO2eq
             elif mode=="Rail":
-                fuel_ghg[fuels] = fuel_ghg_df[fuels] * (LHV[fuels]['Rail']/1000) * fuel_consumption[fuels]['Rail'] * freight_volume['Rail'] #Million KgCO2eq
+                fuel_ghg[fuels] = fuel_ghg_df[fuels] * (float(LHV['Rail'][fuels])/1000) * float(fuel_consumption['Rail'][fuels]) * float(freight_volume['Rail']) #Million KgCO2eq
             elif mode=="Maritime":
-                fuel_ghg[fuels] = fuel_ghg_df[fuels] * (LHV[fuels]['Maritime']/1000) * fuel_consumption[fuels]['Maritime'] * freight_volume['Maritime'] #Million KgCO2eq
+                fuel_ghg[fuels] = fuel_ghg_df[fuels] * (float(LHV['Maritime'][fuels])/1000) * (float(fuel_consumption['Maritime'][fuels])/1000) * float(freight_volume['Maritime']) #Million KgCO2eq
             else:
                 print(f"Fuel ghg allocation failed for scenario: {scenario}")
 
@@ -256,7 +224,7 @@ def optimize_fuel_allocation(dframe_prices, dframe_ghg, baseline_cost, baseline_
 
         # Constraint: Total cost increase < 20% from baseline cost of diesel
         def total_cost_increase(model):
-            return sum(model.cost[f] * model.allocation[f] for f in model.fuels) <= 1 * baseline_cost[scenario]
+            return sum(model.cost[f] * model.allocation[f] for f in model.fuels) <= (1+ (20/100))  * baseline_cost[scenario]
         model.cost_increase = Constraint(rule=total_cost_increase)
 
         # Solve the optimization problem

@@ -91,10 +91,11 @@ fuel_consumption_default = {
     "renewable diesel": {"Highway": 0.008, "Rail": 0.00189},
     "FT biofuels": {"Highway": 0.008, "Rail": 0.00236},
     "FT biofuels CCS": {"Highway": 0.008, "Rail": 0.00182},
+    "ammonia": {"Maritime": 2.5},
     "hydrogen": {"Highway": 0.009, "Rail": 0.00189, "Maritime": 0.69},
     "LNG": {"Highway": 0.006, "Rail": 0.00108, "Maritime": 1.18},
     "electricity": {"Highway": 0.095, "Rail": 0.0383},
-    "ammonia": {"Maritime": 2.5},
+    
 }
 fuel_consumption_df = pd.DataFrame(fuel_consumption_default).T.fillna("N/A")
 edited_fuel_consumption = st.sidebar.data_editor(fuel_consumption_df, width='stretch')

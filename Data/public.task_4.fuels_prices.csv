@@ -378,7 +378,7 @@ h1r1b1n1c2p3,Default,Default,Default,Default,Constrained,Net Zero by 2050,renewa
 h1r1b1n1c2p3,Default,Default,Default,Default,Constrained,Net Zero by 2050,renewable diesel,2045,45.25458
 h1r1b1n1c2p3,Default,Default,Default,Default,Constrained,Net Zero by 2050,renewable diesel,2050,45.74554
 h1r1b1n2c1p1,Default,Default,Default,Advanced cost,Default,No policy,FT biofuels,2020,NA
-h1r1b1n2c1p1,Default,Default,Default,Advanced cost,Default,No policy,FT biofuels,2025,31.849240000000002
+h1r1b1n2c1p1,Default,Default,Default,Advanced cost,Default,No policy,FT biofuels,2025,31.84924
 h1r1b1n2c1p1,Default,Default,Default,Advanced cost,Default,No policy,FT biofuels,2030,32.08477
 h1r1b1n2c1p1,Default,Default,Default,Advanced cost,Default,No policy,FT biofuels,2035,31.96119
 h1r1b1n2c1p1,Default,Default,Default,Advanced cost,Default,No policy,FT biofuels,2040,31.69029
@@ -1071,7 +1071,7 @@ h1r1b2n1c2p3,Default,Default,Constrained,Default,Constrained,Net Zero by 2050,re
 h1r1b2n1c2p3,Default,Default,Constrained,Default,Constrained,Net Zero by 2050,renewable diesel,2045,44.86166
 h1r1b2n1c2p3,Default,Default,Constrained,Default,Constrained,Net Zero by 2050,renewable diesel,2050,44.9122
 h1r1b2n2c1p1,Default,Default,Constrained,Advanced cost,Default,No policy,FT biofuels,2020,NA
-h1r1b2n2c1p1,Default,Default,Constrained,Advanced cost,Default,No policy,FT biofuels,2025,31.849240000000002
+h1r1b2n2c1p1,Default,Default,Constrained,Advanced cost,Default,No policy,FT biofuels,2025,31.84924
 h1r1b2n2c1p1,Default,Default,Constrained,Advanced cost,Default,No policy,FT biofuels,2030,32.08477
 h1r1b2n2c1p1,Default,Default,Constrained,Advanced cost,Default,No policy,FT biofuels,2035,31.96119
 h1r1b2n2c1p1,Default,Default,Constrained,Advanced cost,Default,No policy,FT biofuels,2040,31.69029
@@ -1222,7 +1222,7 @@ h1r1b2n2c1p3,Default,Default,Constrained,Advanced cost,Default,Net Zero by 2050,
 h1r1b2n2c1p3,Default,Default,Constrained,Advanced cost,Default,Net Zero by 2050,ammonia,2030,44.50902
 h1r1b2n2c1p3,Default,Default,Constrained,Advanced cost,Default,Net Zero by 2050,ammonia,2035,43.68328
 h1r1b2n2c1p3,Default,Default,Constrained,Advanced cost,Default,Net Zero by 2050,ammonia,2040,44.08114
-h1r1b2n2c1p3,Default,Default,Constrained,Advanced cost,Default,Net Zero by 2050,ammonia,2045,43.698480000000004
+h1r1b2n2c1p3,Default,Default,Constrained,Advanced cost,Default,Net Zero by 2050,ammonia,2045,43.69848
 h1r1b2n2c1p3,Default,Default,Constrained,Advanced cost,Default,Net Zero by 2050,ammonia,2050,43.29682
 h1r1b2n2c1p3,Default,Default,Constrained,Advanced cost,Default,Net Zero by 2050,e-diesel,2020,NA
 h1r1b2n2c1p3,Default,Default,Constrained,Advanced cost,Default,Net Zero by 2050,e-diesel,2025,91.29158
@@ -1676,7 +1676,7 @@ h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,electri
 h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,electricity,2025,40.33624
 h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,electricity,2030,38.88312
 h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,electricity,2035,38.61408
-h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,electricity,2040,38.316160000000004
+h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,electricity,2040,38.31616
 h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,electricity,2045,37.88467
 h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,electricity,2050,37.53826
 h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,hydrogen,2020,NA
@@ -1691,7 +1691,7 @@ h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,petrole
 h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,petroleum diesel,2030,28.161
 h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,petroleum diesel,2035,27.47088
 h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,petroleum diesel,2040,27.02739
-h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,petroleum diesel,2045,26.756710000000002
+h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,petroleum diesel,2045,26.75671
 h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,petroleum diesel,2050,26.45115
 h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,renewable diesel,2020,NA
 h1r2b1n1c2p1,Default,Advanced cost,Default,Default,Constrained,No policy,renewable diesel,2025,59.79756
@@ -2432,7 +2432,7 @@ h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,ele
 h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,electricity,2025,40.33624
 h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,electricity,2030,38.88312
 h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,electricity,2035,38.61408
-h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,electricity,2040,38.316160000000004
+h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,electricity,2040,38.31616
 h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,electricity,2045,37.88467
 h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,electricity,2050,37.53777
 h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,hydrogen,2020,NA
@@ -2447,7 +2447,7 @@ h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,pet
 h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,petroleum diesel,2030,28.161
 h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,petroleum diesel,2035,27.47088
 h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,petroleum diesel,2040,27.02739
-h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,petroleum diesel,2045,26.756710000000002
+h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,petroleum diesel,2045,26.75671
 h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,petroleum diesel,2050,26.45359
 h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,renewable diesel,2020,NA
 h1r2b2n1c2p1,Default,Advanced cost,Constrained,Default,Constrained,No policy,renewable diesel,2025,59.79756
@@ -2917,7 +2917,7 @@ h1r2b2n2c2p3,Default,Advanced cost,Constrained,Advanced cost,Constrained,Net Zer
 h1r2b2n2c2p3,Default,Advanced cost,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2035,21.69952
 h1r2b2n2c2p3,Default,Advanced cost,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2040,26.14689
 h1r2b2n2c2p3,Default,Advanced cost,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2045,30.8621
-h1r2b2n2c2p3,Default,Advanced cost,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2050,45.563720000000004
+h1r2b2n2c2p3,Default,Advanced cost,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2050,45.56372
 h1r2b2n2c2p3,Default,Advanced cost,Constrained,Advanced cost,Constrained,Net Zero by 2050,ammonia,2020,NA
 h1r2b2n2c2p3,Default,Advanced cost,Constrained,Advanced cost,Constrained,Net Zero by 2050,ammonia,2025,43.3713
 h1r2b2n2c2p3,Default,Advanced cost,Constrained,Advanced cost,Constrained,Net Zero by 2050,ammonia,2030,44.55044
@@ -2994,7 +2994,7 @@ h1r3b1n1c1p1,Default,Constrained,Default,Default,Default,No policy,e-diesel,2030
 h1r3b1n1c1p1,Default,Constrained,Default,Default,Default,No policy,e-diesel,2035,84.25474
 h1r3b1n1c1p1,Default,Constrained,Default,Default,Default,No policy,e-diesel,2040,84.25854
 h1r3b1n1c1p1,Default,Constrained,Default,Default,Default,No policy,e-diesel,2045,84.23726
-h1r3b1n1c1p1,Default,Constrained,Default,Default,Default,No policy,e-diesel,2050,84.497559999999993
+h1r3b1n1c1p1,Default,Constrained,Default,Default,Default,No policy,e-diesel,2050,84.49756
 h1r3b1n1c1p1,Default,Constrained,Default,Default,Default,No policy,electricity,2020,41.82204
 h1r3b1n1c1p1,Default,Constrained,Default,Default,Default,No policy,electricity,2025,42.598
 h1r3b1n1c1p1,Default,Constrained,Default,Default,Default,No policy,electricity,2030,41.8969
@@ -3636,7 +3636,7 @@ h1r3b1n2c2p2,Default,Constrained,Default,Advanced cost,Constrained,50 Percent by
 h1r3b1n2c2p2,Default,Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,hydrogen,2025,45.09301
 h1r3b1n2c2p2,Default,Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,hydrogen,2030,46.73193
 h1r3b1n2c2p2,Default,Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,hydrogen,2035,44.84424
-h1r3b1n2c2p2,Default,Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,hydrogen,2040,45.340089999999996
+h1r3b1n2c2p2,Default,Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,hydrogen,2040,45.34009
 h1r3b1n2c2p2,Default,Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,hydrogen,2045,45.40402
 h1r3b1n2c2p2,Default,Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,hydrogen,2050,46.16405
 h1r3b1n2c2p2,Default,Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,petroleum diesel,2020,28.20649
@@ -5647,7 +5647,7 @@ h2r1b2n2c1p1,Green (Default cost),Default,Constrained,Advanced cost,Default,No p
 h2r1b2n2c1p1,Green (Default cost),Default,Constrained,Advanced cost,Default,No policy,electricity,2035,37.61365
 h2r1b2n2c1p1,Green (Default cost),Default,Constrained,Advanced cost,Default,No policy,electricity,2040,37.22446
 h2r1b2n2c1p1,Green (Default cost),Default,Constrained,Advanced cost,Default,No policy,electricity,2045,36.91761
-h2r1b2n2c1p1,Green (Default cost),Default,Constrained,Advanced cost,Default,No policy,electricity,2050,36.784910000000004
+h2r1b2n2c1p1,Green (Default cost),Default,Constrained,Advanced cost,Default,No policy,electricity,2050,36.78491
 h2r1b2n2c1p1,Green (Default cost),Default,Constrained,Advanced cost,Default,No policy,hydrogen,2020,NA
 h2r1b2n2c1p1,Green (Default cost),Default,Constrained,Advanced cost,Default,No policy,hydrogen,2025,75.46664
 h2r1b2n2c1p1,Green (Default cost),Default,Constrained,Advanced cost,Default,No policy,hydrogen,2030,57.41632
@@ -6806,7 +6806,7 @@ h2r2b2n1c1p1,Green (Default cost),Advanced cost,Constrained,Default,Default,No p
 h2r2b2n1c1p2,Green (Default cost),Advanced cost,Constrained,Default,Default,50 Percent by 2050,FT biofuels,2020,NA
 h2r2b2n1c1p2,Green (Default cost),Advanced cost,Constrained,Default,Default,50 Percent by 2050,FT biofuels,2025,32.65754
 h2r2b2n1c1p2,Green (Default cost),Advanced cost,Constrained,Default,Default,50 Percent by 2050,FT biofuels,2030,31.75968
-h2r2b2n1c1p2,Green (Default cost),Advanced cost,Constrained,Default,Default,50 Percent by 2050,FT biofuels,2035,30.373169999999998
+h2r2b2n1c1p2,Green (Default cost),Advanced cost,Constrained,Default,Default,50 Percent by 2050,FT biofuels,2035,30.37317
 h2r2b2n1c1p2,Green (Default cost),Advanced cost,Constrained,Default,Default,50 Percent by 2050,FT biofuels,2040,29.85614
 h2r2b2n1c1p2,Green (Default cost),Advanced cost,Constrained,Default,Default,50 Percent by 2050,FT biofuels,2045,31.07081
 h2r2b2n1c1p2,Green (Default cost),Advanced cost,Constrained,Default,Default,50 Percent by 2050,FT biofuels,2050,31.92722
@@ -6890,7 +6890,7 @@ h2r2b2n1c1p3,Green (Default cost),Advanced cost,Constrained,Default,Default,Net 
 h2r2b2n1c1p3,Green (Default cost),Advanced cost,Constrained,Default,Default,Net Zero by 2050,ammonia,2020,NA
 h2r2b2n1c1p3,Green (Default cost),Advanced cost,Constrained,Default,Default,Net Zero by 2050,ammonia,2025,43.95688
 h2r2b2n1c1p3,Green (Default cost),Advanced cost,Constrained,Default,Default,Net Zero by 2050,ammonia,2030,56.71918
-h2r2b2n1c1p3,Green (Default cost),Advanced cost,Constrained,Default,Default,Net Zero by 2050,ammonia,2035,51.640860000000004
+h2r2b2n1c1p3,Green (Default cost),Advanced cost,Constrained,Default,Default,Net Zero by 2050,ammonia,2035,51.64086
 h2r2b2n1c1p3,Green (Default cost),Advanced cost,Constrained,Default,Default,Net Zero by 2050,ammonia,2040,49.1739
 h2r2b2n1c1p3,Green (Default cost),Advanced cost,Constrained,Default,Default,Net Zero by 2050,ammonia,2045,46.60586
 h2r2b2n1c1p3,Green (Default cost),Advanced cost,Constrained,Default,Default,Net Zero by 2050,ammonia,2050,43.97816
@@ -7656,7 +7656,7 @@ h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero b
 h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2035,95.31122
 h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2040,92.71582
 h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2045,89.01766
-h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2050,85.3
+h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2050,87
 h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,electricity,2020,41.82204
 h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,electricity,2025,47.7489
 h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,electricity,2030,49.79026
@@ -7677,7 +7677,7 @@ h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero b
 h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,petroleum diesel,2035,36.53028
 h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,petroleum diesel,2040,35.8484
 h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,petroleum diesel,2045,37.69655
-h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,petroleum diesel,2050,39.4
+h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,petroleum diesel,2050,38
 h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,renewable diesel,2020,NA
 h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,renewable diesel,2025,57.88046
 h2r3b1n1c1p3,Green (Default cost),Constrained,Default,Default,Default,Net Zero by 2050,renewable diesel,2030,52.5008
@@ -7834,7 +7834,7 @@ h2r3b1n1c2p3,Green (Default cost),Constrained,Default,Default,Constrained,Net Ze
 h2r3b1n1c2p3,Green (Default cost),Constrained,Default,Default,Constrained,Net Zero by 2050,LNG,2050,53.03263
 h2r3b1n1c2p3,Green (Default cost),Constrained,Default,Default,Constrained,Net Zero by 2050,ammonia,2020,NA
 h2r3b1n1c2p3,Green (Default cost),Constrained,Default,Default,Constrained,Net Zero by 2050,ammonia,2025,44.67014
-h2r3b1n1c2p3,Green (Default cost),Constrained,Default,Default,Constrained,Net Zero by 2050,ammonia,2030,58.318600000000004
+h2r3b1n1c2p3,Green (Default cost),Constrained,Default,Default,Constrained,Net Zero by 2050,ammonia,2030,58.3186
 h2r3b1n1c2p3,Green (Default cost),Constrained,Default,Default,Constrained,Net Zero by 2050,ammonia,2035,54.71088
 h2r3b1n1c2p3,Green (Default cost),Constrained,Default,Default,Constrained,Net Zero by 2050,ammonia,2040,52.28914
 h2r3b1n1c2p3,Green (Default cost),Constrained,Default,Default,Constrained,Net Zero by 2050,ammonia,2045,59.36436
@@ -8590,7 +8590,7 @@ h2r3b2n1c2p3,Green (Default cost),Constrained,Constrained,Default,Constrained,Ne
 h2r3b2n1c2p3,Green (Default cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,LNG,2050,53.4137
 h2r3b2n1c2p3,Green (Default cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,ammonia,2020,NA
 h2r3b2n1c2p3,Green (Default cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,ammonia,2025,44.67014
-h2r3b2n1c2p3,Green (Default cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,ammonia,2030,58.318600000000004
+h2r3b2n1c2p3,Green (Default cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,ammonia,2030,58.3186
 h2r3b2n1c2p3,Green (Default cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,ammonia,2035,54.7162
 h2r3b2n1c2p3,Green (Default cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,ammonia,2040,52.30054
 h2r3b2n1c2p3,Green (Default cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,ammonia,2045,59.56576
@@ -8951,63 +8951,63 @@ h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrai
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels,2035,25.50636
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels,2040,23.50425
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels,2045,21.2789
-h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels,2050,18.9
+h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels,2050,20
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2020,NA
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2025,26.68185
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2030,21.56404
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2035,22.107
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2040,19.47518
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2045,17.43642
-h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2050,15.4
+h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2050,16
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2020,NA
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2025,18.15465
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2030,22.62323
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2035,21.82901
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2040,26.18303
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2045,30.8363
-h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2050,35.5
+h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,LNG,2050,34
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,ammonia,2020,NA
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,ammonia,2025,44.57894
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,ammonia,2030,58.18598
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,ammonia,2035,54.27578
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,ammonia,2040,51.97184
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,ammonia,2045,49.22368
-h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,ammonia,2050,46.5
+h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,ammonia,2050,47
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,e-diesel,2020,NA
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,e-diesel,2025,106.7116
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,e-diesel,2030,97.47076
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,e-diesel,2035,85.7736
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,e-diesel,2040,82.4353
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,e-diesel,2045,78.18576
-h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,e-diesel,2050,73.8
+h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,e-diesel,2050,75
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,electricity,2020,41.82204
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,electricity,2025,47.5608
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,electricity,2030,49.1017
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,electricity,2035,41.22544
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,electricity,2040,41.64838
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,electricity,2045,41.90374
-h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,electricity,2050,42.2
+h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,electricity,2050,42
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,hydrogen,2020,NA
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,hydrogen,2025,76.91816
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,hydrogen,2030,59.07401
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,hydrogen,2035,54.635
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,hydrogen,2040,52.59349
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,hydrogen,2045,50.30998
-h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,hydrogen,2050,48.1
+h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,hydrogen,2050,48
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,petroleum diesel,2020,28.20649
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,petroleum diesel,2025,33.29744
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,petroleum diesel,2030,36.67414
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,petroleum diesel,2035,36.0997
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,petroleum diesel,2040,37.55879
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,petroleum diesel,2045,38.90694
-h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,petroleum diesel,2050,40.3
+h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,petroleum diesel,2050,40
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,renewable diesel,2020,NA
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,renewable diesel,2025,57.87438
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,renewable diesel,2030,51.82858
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,renewable diesel,2035,46.56482
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,renewable diesel,2040,44.81796
 h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,renewable diesel,2045,45.53464
-h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,renewable diesel,2050,46.2
+h2r3b2n2c2p3,Green (Default cost),Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,renewable diesel,2050,45
 h3r1b1n1c1p1,Green (Advanced cost),Default,Default,Default,Default,No policy,FT biofuels,2020,NA
 h3r1b1n1c1p1,Green (Advanced cost),Default,Default,Default,Default,No policy,FT biofuels,2025,31.90871
 h3r1b1n1c1p1,Green (Advanced cost),Default,Default,Default,Default,No policy,FT biofuels,2030,32.28788
@@ -9474,7 +9474,7 @@ h3r1b1n2c1p2,Green (Advanced cost),Default,Default,Advanced cost,Default,50 Perc
 h3r1b1n2c1p2,Green (Advanced cost),Default,Default,Advanced cost,Default,50 Percent by 2050,ammonia,2025,42.79902
 h3r1b1n2c1p2,Green (Advanced cost),Default,Default,Advanced cost,Default,50 Percent by 2050,ammonia,2030,53.2779
 h3r1b1n2c1p2,Green (Advanced cost),Default,Default,Advanced cost,Default,50 Percent by 2050,ammonia,2035,50.33024
-h3r1b1n2c1p2,Green (Advanced cost),Default,Default,Advanced cost,Default,50 Percent by 2050,ammonia,2040,48.078360000000004
+h3r1b1n2c1p2,Green (Advanced cost),Default,Default,Advanced cost,Default,50 Percent by 2050,ammonia,2040,48.07836
 h3r1b1n2c1p2,Green (Advanced cost),Default,Default,Advanced cost,Default,50 Percent by 2050,ammonia,2045,45.48904
 h3r1b1n2c1p2,Green (Advanced cost),Default,Default,Advanced cost,Default,50 Percent by 2050,ammonia,2050,42.97496
 h3r1b1n2c1p2,Green (Advanced cost),Default,Default,Advanced cost,Default,50 Percent by 2050,e-diesel,2020,NA
@@ -9727,7 +9727,7 @@ h3r1b1n2c2p3,Green (Advanced cost),Default,Default,Advanced cost,Constrained,Net
 h3r1b1n2c2p3,Green (Advanced cost),Default,Default,Advanced cost,Constrained,Net Zero by 2050,ammonia,2030,53.90528
 h3r1b1n2c2p3,Green (Advanced cost),Default,Default,Advanced cost,Constrained,Net Zero by 2050,ammonia,2035,50.78776
 h3r1b1n2c2p3,Green (Advanced cost),Default,Default,Advanced cost,Constrained,Net Zero by 2050,ammonia,2040,48.564
-h3r1b1n2c2p3,Green (Advanced cost),Default,Default,Advanced cost,Constrained,Net Zero by 2050,ammonia,2045,45.888420000000004
+h3r1b1n2c2p3,Green (Advanced cost),Default,Default,Advanced cost,Constrained,Net Zero by 2050,ammonia,2045,45.88842
 h3r1b1n2c2p3,Green (Advanced cost),Default,Default,Advanced cost,Constrained,Net Zero by 2050,ammonia,2050,43.28998
 h3r1b1n2c2p3,Green (Advanced cost),Default,Default,Advanced cost,Constrained,Net Zero by 2050,e-diesel,2020,NA
 h3r1b1n2c2p3,Green (Advanced cost),Default,Default,Advanced cost,Constrained,Net Zero by 2050,e-diesel,2025,99.95786
@@ -10596,7 +10596,7 @@ h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Perc
 h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,FT biofuels CCS,2035,28.84934
 h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,FT biofuels CCS,2040,26.48225
 h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,FT biofuels CCS,2045,27.07165
-h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,FT biofuels CCS,2050,26.784300000000002
+h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,FT biofuels CCS,2050,26.7843
 h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,LNG,2020,NA
 h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,LNG,2025,11.28956
 h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,LNG,2030,13.92801
@@ -10644,7 +10644,7 @@ h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Perc
 h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,renewable diesel,2030,54.76104
 h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,renewable diesel,2035,49.60824
 h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,renewable diesel,2040,45.54414
-h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,renewable diesel,2045,47.631100000000004
+h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,renewable diesel,2045,47.6311
 h3r2b1n1c1p2,Green (Advanced cost),Advanced cost,Default,Default,Default,50 Percent by 2050,renewable diesel,2050,47.87658
 h3r2b1n1c1p3,Green (Advanced cost),Advanced cost,Default,Default,Default,Net Zero by 2050,FT biofuels,2020,NA
 h3r2b1n1c1p3,Green (Advanced cost),Advanced cost,Default,Default,Default,Net Zero by 2050,FT biofuels,2025,28.81472
@@ -10955,7 +10955,7 @@ h3r2b1n2c1p1,Green (Advanced cost),Advanced cost,Default,Advanced cost,Default,N
 h3r2b1n2c1p1,Green (Advanced cost),Advanced cost,Default,Advanced cost,Default,No policy,petroleum diesel,2045,26.56998
 h3r2b1n2c1p1,Green (Advanced cost),Advanced cost,Default,Advanced cost,Default,No policy,petroleum diesel,2050,26.17759
 h3r2b1n2c1p1,Green (Advanced cost),Advanced cost,Default,Advanced cost,Default,No policy,renewable diesel,2020,NA
-h3r2b1n2c1p1,Green (Advanced cost),Advanced cost,Default,Advanced cost,Default,No policy,renewable diesel,2025,60.878660000000004
+h3r2b1n2c1p1,Green (Advanced cost),Advanced cost,Default,Advanced cost,Default,No policy,renewable diesel,2025,60.87866
 h3r2b1n2c1p1,Green (Advanced cost),Advanced cost,Default,Advanced cost,Default,No policy,renewable diesel,2030,56.27116
 h3r2b1n2c1p1,Green (Advanced cost),Advanced cost,Default,Advanced cost,Default,No policy,renewable diesel,2035,52.34576
 h3r2b1n2c1p1,Green (Advanced cost),Advanced cost,Default,Advanced cost,Default,No policy,renewable diesel,2040,48.73044
@@ -11711,7 +11711,7 @@ h3r2b2n2c1p1,Green (Advanced cost),Advanced cost,Constrained,Advanced cost,Defau
 h3r2b2n2c1p1,Green (Advanced cost),Advanced cost,Constrained,Advanced cost,Default,No policy,petroleum diesel,2045,26.56998
 h3r2b2n2c1p1,Green (Advanced cost),Advanced cost,Constrained,Advanced cost,Default,No policy,petroleum diesel,2050,26.1812
 h3r2b2n2c1p1,Green (Advanced cost),Advanced cost,Constrained,Advanced cost,Default,No policy,renewable diesel,2020,NA
-h3r2b2n2c1p1,Green (Advanced cost),Advanced cost,Constrained,Advanced cost,Default,No policy,renewable diesel,2025,60.878660000000004
+h3r2b2n2c1p1,Green (Advanced cost),Advanced cost,Constrained,Advanced cost,Default,No policy,renewable diesel,2025,60.87866
 h3r2b2n2c1p1,Green (Advanced cost),Advanced cost,Constrained,Advanced cost,Default,No policy,renewable diesel,2030,56.27116
 h3r2b2n2c1p1,Green (Advanced cost),Advanced cost,Constrained,Advanced cost,Default,No policy,renewable diesel,2035,52.34576
 h3r2b2n2c1p1,Green (Advanced cost),Advanced cost,Constrained,Advanced cost,Default,No policy,renewable diesel,2040,48.73044
@@ -12192,7 +12192,7 @@ h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero 
 h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2035,91.98584
 h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2040,89.50862
 h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2045,87.44066
-h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2050,85.3
+h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2050,86
 h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,electricity,2020,41.82204
 h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,electricity,2025,47.7546
 h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,electricity,2030,49.79596
@@ -12213,7 +12213,7 @@ h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero 
 h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,petroleum diesel,2035,36.48214
 h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,petroleum diesel,2040,35.79245
 h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,petroleum diesel,2045,37.76831
-h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,petroleum diesel,2050,39.7
+h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,petroleum diesel,2050,38
 h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,renewable diesel,2020,NA
 h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,renewable diesel,2025,57.4674
 h3r3b1n1c1p3,Green (Advanced cost),Constrained,Default,Default,Default,Net Zero by 2050,renewable diesel,2030,52.21048
@@ -12397,7 +12397,7 @@ h3r3b1n1c2p3,Green (Advanced cost),Constrained,Default,Default,Constrained,Net Z
 h3r3b1n1c2p3,Green (Advanced cost),Constrained,Default,Default,Constrained,Net Zero by 2050,hydrogen,2045,68.6428
 h3r3b1n1c2p3,Green (Advanced cost),Constrained,Default,Default,Constrained,Net Zero by 2050,hydrogen,2050,84.58239
 h3r3b1n1c2p3,Green (Advanced cost),Constrained,Default,Default,Constrained,Net Zero by 2050,petroleum diesel,2020,28.20687
-h3r3b1n1c2p3,Green (Advanced cost),Constrained,Default,Default,Constrained,Net Zero by 2050,petroleum diesel,2025,33.438720000000004
+h3r3b1n1c2p3,Green (Advanced cost),Constrained,Default,Default,Constrained,Net Zero by 2050,petroleum diesel,2025,33.43872
 h3r3b1n1c2p3,Green (Advanced cost),Constrained,Default,Default,Constrained,Net Zero by 2050,petroleum diesel,2030,36.93414
 h3r3b1n1c2p3,Green (Advanced cost),Constrained,Default,Default,Constrained,Net Zero by 2050,petroleum diesel,2035,38.16452
 h3r3b1n1c2p3,Green (Advanced cost),Constrained,Default,Default,Constrained,Net Zero by 2050,petroleum diesel,2040,39.21398
@@ -12649,7 +12649,7 @@ h3r3b1n2c2p1,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained
 h3r3b1n2c2p1,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,No policy,hydrogen,2045,45.97801
 h3r3b1n2c2p1,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,No policy,hydrogen,2050,43.9009
 h3r3b1n2c2p1,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,No policy,petroleum diesel,2020,28.20649
-h3r3b1n2c2p1,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,No policy,petroleum diesel,2025,28.435669999999998
+h3r3b1n2c2p1,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,No policy,petroleum diesel,2025,28.43567
 h3r3b1n2c2p1,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,No policy,petroleum diesel,2030,28.41591
 h3r3b1n2c2p1,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,No policy,petroleum diesel,2035,27.75999
 h3r3b1n2c2p1,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,No policy,petroleum diesel,2040,27.35004
@@ -12663,7 +12663,7 @@ h3r3b1n2c2p1,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained
 h3r3b1n2c2p1,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,No policy,renewable diesel,2045,50.07184
 h3r3b1n2c2p1,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,No policy,renewable diesel,2050,50.2398
 h3r3b1n2c2p2,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,FT biofuels,2020,NA
-h3r3b1n2c2p2,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,FT biofuels,2025,32.919670000000004
+h3r3b1n2c2p2,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,FT biofuels,2025,32.91967
 h3r3b1n2c2p2,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,FT biofuels,2030,30.88792
 h3r3b1n2c2p2,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,FT biofuels,2035,30.59027
 h3r3b1n2c2p2,Green (Advanced cost),Constrained,Default,Advanced cost,Constrained,50 Percent by 2050,FT biofuels,2040,29.51555
@@ -13153,7 +13153,7 @@ h3r3b2n1c2p3,Green (Advanced cost),Constrained,Constrained,Default,Constrained,N
 h3r3b2n1c2p3,Green (Advanced cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,hydrogen,2045,69.19034
 h3r3b2n1c2p3,Green (Advanced cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,hydrogen,2050,84.65296
 h3r3b2n1c2p3,Green (Advanced cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,petroleum diesel,2020,28.20687
-h3r3b2n1c2p3,Green (Advanced cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,petroleum diesel,2025,33.438720000000004
+h3r3b2n1c2p3,Green (Advanced cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,petroleum diesel,2025,33.43872
 h3r3b2n1c2p3,Green (Advanced cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,petroleum diesel,2030,36.93414
 h3r3b2n1c2p3,Green (Advanced cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,petroleum diesel,2035,38.21309
 h3r3b2n1c2p3,Green (Advanced cost),Constrained,Constrained,Default,Constrained,Net Zero by 2050,petroleum diesel,2040,39.40761
@@ -13419,7 +13419,7 @@ h3r3b2n2c2p1,Green (Advanced cost),Constrained,Constrained,Advanced cost,Constra
 h3r3b2n2c2p1,Green (Advanced cost),Constrained,Constrained,Advanced cost,Constrained,No policy,renewable diesel,2045,50.07184
 h3r3b2n2c2p1,Green (Advanced cost),Constrained,Constrained,Advanced cost,Constrained,No policy,renewable diesel,2050,50.21434
 h3r3b2n2c2p2,Green (Advanced cost),Constrained,Constrained,Advanced cost,Constrained,50 Percent by 2050,FT biofuels,2020,NA
-h3r3b2n2c2p2,Green (Advanced cost),Constrained,Constrained,Advanced cost,Constrained,50 Percent by 2050,FT biofuels,2025,32.919670000000004
+h3r3b2n2c2p2,Green (Advanced cost),Constrained,Constrained,Advanced cost,Constrained,50 Percent by 2050,FT biofuels,2025,32.91967
 h3r3b2n2c2p2,Green (Advanced cost),Constrained,Constrained,Advanced cost,Constrained,50 Percent by 2050,FT biofuels,2030,30.88819
 h3r3b2n2c2p2,Green (Advanced cost),Constrained,Constrained,Advanced cost,Constrained,50 Percent by 2050,FT biofuels,2035,30.58806
 h3r3b2n2c2p2,Green (Advanced cost),Constrained,Constrained,Advanced cost,Constrained,50 Percent by 2050,FT biofuels,2040,29.82628
@@ -13568,7 +13568,7 @@ h4r1b1n1c1p1,Blue,Default,Default,Default,Default,No policy,LNG,2050,11.41725
 h4r1b1n1c1p1,Blue,Default,Default,Default,Default,No policy,ammonia,2020,NA
 h4r1b1n1c1p1,Blue,Default,Default,Default,Default,No policy,ammonia,2025,46.13162
 h4r1b1n1c1p1,Blue,Default,Default,Default,Default,No policy,ammonia,2030,45.42254
-h4r1b1n1c1p1,Blue,Default,Default,Default,Default,No policy,ammonia,2035,44.808839999999996
+h4r1b1n1c1p1,Blue,Default,Default,Default,Default,No policy,ammonia,2035,44.80884
 h4r1b1n1c1p1,Blue,Default,Default,Default,Default,No policy,ammonia,2040,44.49686
 h4r1b1n1c1p1,Blue,Default,Default,Default,Default,No policy,ammonia,2045,44.33384
 h4r1b1n1c1p1,Blue,Default,Default,Default,Default,No policy,ammonia,2050,44.38096
@@ -13846,7 +13846,7 @@ h4r1b1n1c2p3,Blue,Default,Default,Default,Constrained,Net Zero by 2050,hydrogen,
 h4r1b1n1c2p3,Blue,Default,Default,Default,Constrained,Net Zero by 2050,hydrogen,2045,64.09806
 h4r1b1n1c2p3,Blue,Default,Default,Default,Constrained,Net Zero by 2050,hydrogen,2050,73.72308
 h4r1b1n1c2p3,Blue,Default,Default,Default,Constrained,Net Zero by 2050,petroleum diesel,2020,28.21386
-h4r1b1n1c2p3,Blue,Default,Default,Default,Constrained,Net Zero by 2050,petroleum diesel,2025,33.155029999999996
+h4r1b1n1c2p3,Blue,Default,Default,Default,Constrained,Net Zero by 2050,petroleum diesel,2025,33.15503
 h4r1b1n1c2p3,Blue,Default,Default,Default,Constrained,Net Zero by 2050,petroleum diesel,2030,36.43527
 h4r1b1n1c2p3,Blue,Default,Default,Default,Constrained,Net Zero by 2050,petroleum diesel,2035,37.85997
 h4r1b1n1c2p3,Blue,Default,Default,Default,Constrained,Net Zero by 2050,petroleum diesel,2040,39.47271
@@ -14198,7 +14198,7 @@ h4r1b2n1c1p1,Blue,Default,Constrained,Default,Default,No policy,LNG,2050,11.4172
 h4r1b2n1c1p1,Blue,Default,Constrained,Default,Default,No policy,ammonia,2020,NA
 h4r1b2n1c1p1,Blue,Default,Constrained,Default,Default,No policy,ammonia,2025,46.13162
 h4r1b2n1c1p1,Blue,Default,Constrained,Default,Default,No policy,ammonia,2030,45.42254
-h4r1b2n1c1p1,Blue,Default,Constrained,Default,Default,No policy,ammonia,2035,44.808839999999996
+h4r1b2n1c1p1,Blue,Default,Constrained,Default,Default,No policy,ammonia,2035,44.80884
 h4r1b2n1c1p1,Blue,Default,Constrained,Default,Default,No policy,ammonia,2040,44.49686
 h4r1b2n1c1p1,Blue,Default,Constrained,Default,Default,No policy,ammonia,2045,44.33384
 h4r1b2n1c1p1,Blue,Default,Constrained,Default,Default,No policy,ammonia,2050,44.38134
@@ -14539,7 +14539,7 @@ h4r1b2n1c2p3,Blue,Default,Constrained,Default,Constrained,Net Zero by 2050,hydro
 h4r1b2n1c2p3,Blue,Default,Constrained,Default,Constrained,Net Zero by 2050,hydrogen,2045,64.00944
 h4r1b2n1c2p3,Blue,Default,Constrained,Default,Constrained,Net Zero by 2050,hydrogen,2050,73.96823
 h4r1b2n1c2p3,Blue,Default,Constrained,Default,Constrained,Net Zero by 2050,petroleum diesel,2020,28.21386
-h4r1b2n1c2p3,Blue,Default,Constrained,Default,Constrained,Net Zero by 2050,petroleum diesel,2025,33.155029999999996
+h4r1b2n1c2p3,Blue,Default,Constrained,Default,Constrained,Net Zero by 2050,petroleum diesel,2025,33.15503
 h4r1b2n1c2p3,Blue,Default,Constrained,Default,Constrained,Net Zero by 2050,petroleum diesel,2030,36.43527
 h4r1b2n1c2p3,Blue,Default,Constrained,Default,Constrained,Net Zero by 2050,petroleum diesel,2035,37.86007
 h4r1b2n1c2p3,Blue,Default,Constrained,Default,Constrained,Net Zero by 2050,petroleum diesel,2040,39.64725
@@ -14967,7 +14967,7 @@ h4r2b1n1c1p2,Blue,Advanced cost,Default,Default,Default,50 Percent by 2050,e-die
 h4r2b1n1c1p2,Blue,Advanced cost,Default,Default,Default,50 Percent by 2050,e-diesel,2050,79.80798
 h4r2b1n1c1p2,Blue,Advanced cost,Default,Default,Default,50 Percent by 2050,electricity,2020,41.58492
 h4r2b1n1c1p2,Blue,Advanced cost,Default,Default,Default,50 Percent by 2050,electricity,2025,40.30394
-h4r2b1n1c1p2,Blue,Advanced cost,Default,Default,Default,50 Percent by 2050,electricity,2030,41.138420000000004
+h4r2b1n1c1p2,Blue,Advanced cost,Default,Default,Default,50 Percent by 2050,electricity,2030,41.13842
 h4r2b1n1c1p2,Blue,Advanced cost,Default,Default,Default,50 Percent by 2050,electricity,2035,43.0844
 h4r2b1n1c1p2,Blue,Advanced cost,Default,Default,Default,50 Percent by 2050,electricity,2040,43.90102
 h4r2b1n1c1p2,Blue,Advanced cost,Default,Default,Default,50 Percent by 2050,electricity,2045,43.66808
@@ -15146,7 +15146,7 @@ h4r2b1n1c2p2,Blue,Advanced cost,Default,Default,Constrained,50 Percent by 2050,a
 h4r2b1n1c2p2,Blue,Advanced cost,Default,Default,Constrained,50 Percent by 2050,ammonia,2035,48.08102
 h4r2b1n1c2p2,Blue,Advanced cost,Default,Default,Constrained,50 Percent by 2050,ammonia,2040,49.01164
 h4r2b1n1c2p2,Blue,Advanced cost,Default,Default,Constrained,50 Percent by 2050,ammonia,2045,50.28274
-h4r2b1n1c2p2,Blue,Advanced cost,Default,Default,Constrained,50 Percent by 2050,ammonia,2050,50.746339999999996
+h4r2b1n1c2p2,Blue,Advanced cost,Default,Default,Constrained,50 Percent by 2050,ammonia,2050,50.74634
 h4r2b1n1c2p2,Blue,Advanced cost,Default,Default,Constrained,50 Percent by 2050,e-diesel,2020,NA
 h4r2b1n1c2p2,Blue,Advanced cost,Default,Default,Constrained,50 Percent by 2050,e-diesel,2025,83.95796
 h4r2b1n1c2p2,Blue,Advanced cost,Default,Default,Constrained,50 Percent by 2050,e-diesel,2030,82.555
@@ -15278,7 +15278,7 @@ h4r2b1n2c1p1,Blue,Advanced cost,Default,Advanced cost,Default,No policy,e-diesel
 h4r2b1n2c1p1,Blue,Advanced cost,Default,Advanced cost,Default,No policy,e-diesel,2030,81.46706
 h4r2b1n2c1p1,Blue,Advanced cost,Default,Advanced cost,Default,No policy,e-diesel,2035,77.6796
 h4r2b1n2c1p1,Blue,Advanced cost,Default,Advanced cost,Default,No policy,e-diesel,2040,76.94316
-h4r2b1n2c1p1,Blue,Advanced cost,Default,Advanced cost,Default,No policy,e-diesel,2045,76.709460000000007
+h4r2b1n2c1p1,Blue,Advanced cost,Default,Advanced cost,Default,No policy,e-diesel,2045,76.70946
 h4r2b1n2c1p1,Blue,Advanced cost,Default,Advanced cost,Default,No policy,e-diesel,2050,76.79192
 h4r2b1n2c1p1,Blue,Advanced cost,Default,Advanced cost,Default,No policy,electricity,2020,41.58454
 h4r2b1n2c1p1,Blue,Advanced cost,Default,Advanced cost,Default,No policy,electricity,2025,40.57374
@@ -15660,7 +15660,7 @@ h4r2b2n1c1p2,Blue,Advanced cost,Constrained,Default,Default,50 Percent by 2050,e
 h4r2b2n1c1p2,Blue,Advanced cost,Constrained,Default,Default,50 Percent by 2050,e-diesel,2050,79.7677
 h4r2b2n1c1p2,Blue,Advanced cost,Constrained,Default,Default,50 Percent by 2050,electricity,2020,41.58492
 h4r2b2n1c1p2,Blue,Advanced cost,Constrained,Default,Default,50 Percent by 2050,electricity,2025,40.30394
-h4r2b2n1c1p2,Blue,Advanced cost,Constrained,Default,Default,50 Percent by 2050,electricity,2030,41.138420000000004
+h4r2b2n1c1p2,Blue,Advanced cost,Constrained,Default,Default,50 Percent by 2050,electricity,2030,41.13842
 h4r2b2n1c1p2,Blue,Advanced cost,Constrained,Default,Default,50 Percent by 2050,electricity,2035,43.08402
 h4r2b2n1c1p2,Blue,Advanced cost,Constrained,Default,Default,50 Percent by 2050,electricity,2040,43.92458
 h4r2b2n1c1p2,Blue,Advanced cost,Constrained,Default,Default,50 Percent by 2050,electricity,2045,43.72166
@@ -15858,7 +15858,7 @@ h4r2b2n1c2p2,Blue,Advanced cost,Constrained,Default,Constrained,50 Percent by 20
 h4r2b2n1c2p2,Blue,Advanced cost,Constrained,Default,Constrained,50 Percent by 2050,hydrogen,2025,55.31093
 h4r2b2n1c2p2,Blue,Advanced cost,Constrained,Default,Constrained,50 Percent by 2050,hydrogen,2030,45.79156
 h4r2b2n1c2p2,Blue,Advanced cost,Constrained,Default,Constrained,50 Percent by 2050,hydrogen,2035,45.61867
-h4r2b2n1c2p2,Blue,Advanced cost,Constrained,Default,Constrained,50 Percent by 2050,hydrogen,2040,45.784910000000004
+h4r2b2n1c2p2,Blue,Advanced cost,Constrained,Default,Constrained,50 Percent by 2050,hydrogen,2040,45.78491
 h4r2b2n1c2p2,Blue,Advanced cost,Constrained,Default,Constrained,50 Percent by 2050,hydrogen,2045,46.6527
 h4r2b2n1c2p2,Blue,Advanced cost,Constrained,Default,Constrained,50 Percent by 2050,hydrogen,2050,46.87717
 h4r2b2n1c2p2,Blue,Advanced cost,Constrained,Default,Constrained,50 Percent by 2050,petroleum diesel,2020,28.20181
@@ -15971,7 +15971,7 @@ h4r2b2n2c1p1,Blue,Advanced cost,Constrained,Advanced cost,Default,No policy,e-di
 h4r2b2n2c1p1,Blue,Advanced cost,Constrained,Advanced cost,Default,No policy,e-diesel,2030,81.46706
 h4r2b2n2c1p1,Blue,Advanced cost,Constrained,Advanced cost,Default,No policy,e-diesel,2035,77.6796
 h4r2b2n2c1p1,Blue,Advanced cost,Constrained,Advanced cost,Default,No policy,e-diesel,2040,76.94316
-h4r2b2n2c1p1,Blue,Advanced cost,Constrained,Advanced cost,Default,No policy,e-diesel,2045,76.709460000000007
+h4r2b2n2c1p1,Blue,Advanced cost,Constrained,Advanced cost,Default,No policy,e-diesel,2045,76.70946
 h4r2b2n2c1p1,Blue,Advanced cost,Constrained,Advanced cost,Default,No policy,e-diesel,2050,76.79116
 h4r2b2n2c1p1,Blue,Advanced cost,Constrained,Advanced cost,Default,No policy,electricity,2020,41.58454
 h4r2b2n2c1p1,Blue,Advanced cost,Constrained,Advanced cost,Default,No policy,electricity,2025,40.57374
@@ -16254,7 +16254,7 @@ h4r2b2n2c2p2,Blue,Advanced cost,Constrained,Advanced cost,Constrained,50 Percent
 h4r2b2n2c2p2,Blue,Advanced cost,Constrained,Advanced cost,Constrained,50 Percent by 2050,renewable diesel,2045,46.96762
 h4r2b2n2c2p2,Blue,Advanced cost,Constrained,Advanced cost,Constrained,50 Percent by 2050,renewable diesel,2050,47.22108
 h4r3b1n1c1p1,Blue,Constrained,Default,Default,Default,No policy,FT biofuels,2020,NA
-h4r3b1n1c1p1,Blue,Constrained,Default,Default,Default,No policy,FT biofuels,2025,31.944210000000002
+h4r3b1n1c1p1,Blue,Constrained,Default,Default,Default,No policy,FT biofuels,2025,31.94421
 h4r3b1n1c1p1,Blue,Constrained,Default,Default,Default,No policy,FT biofuels,2030,32.22548
 h4r3b1n1c1p1,Blue,Constrained,Default,Default,Default,No policy,FT biofuels,2035,32.21857
 h4r3b1n1c1p1,Blue,Constrained,Default,Default,Default,No policy,FT biofuels,2040,31.9895
@@ -16408,7 +16408,7 @@ h4r3b1n1c1p3,Blue,Constrained,Default,Default,Default,Net Zero by 2050,ammonia,2
 h4r3b1n1c1p3,Blue,Constrained,Default,Default,Default,Net Zero by 2050,ammonia,2045,45.86144
 h4r3b1n1c1p3,Blue,Constrained,Default,Default,Default,Net Zero by 2050,ammonia,2050,46.05904
 h4r3b1n1c1p3,Blue,Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2020,NA
-h4r3b1n1c1p3,Blue,Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2025,89.031720000000007
+h4r3b1n1c1p3,Blue,Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2025,89.03172
 h4r3b1n1c1p3,Blue,Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2030,87.70324
 h4r3b1n1c1p3,Blue,Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2035,86.27976
 h4r3b1n1c1p3,Blue,Constrained,Default,Default,Default,Net Zero by 2050,e-diesel,2040,84.52796
@@ -16457,7 +16457,7 @@ h4r3b1n1c2p1,Blue,Constrained,Default,Default,Constrained,No policy,FT biofuels 
 h4r3b1n1c2p1,Blue,Constrained,Default,Default,Constrained,No policy,FT biofuels CCS,2045,38.93878
 h4r3b1n1c2p1,Blue,Constrained,Default,Default,Constrained,No policy,FT biofuels CCS,2050,39.88946
 h4r3b1n1c2p1,Blue,Constrained,Default,Default,Constrained,No policy,LNG,2020,NA
-h4r3b1n1c2p1,Blue,Constrained,Default,Default,Constrained,No policy,LNG,2025,11.359069999999999
+h4r3b1n1c2p1,Blue,Constrained,Default,Default,Constrained,No policy,LNG,2025,11.35907
 h4r3b1n1c2p1,Blue,Constrained,Default,Default,Constrained,No policy,LNG,2030,10.93602
 h4r3b1n1c2p1,Blue,Constrained,Default,Default,Constrained,No policy,LNG,2035,10.79208
 h4r3b1n1c2p1,Blue,Constrained,Default,Default,Constrained,No policy,LNG,2040,10.82004
@@ -16710,7 +16710,7 @@ h4r3b1n2c1p2,Blue,Constrained,Default,Advanced cost,Default,50 Percent by 2050,F
 h4r3b1n2c1p2,Blue,Constrained,Default,Advanced cost,Default,50 Percent by 2050,FT biofuels CCS,2050,27.84872
 h4r3b1n2c1p2,Blue,Constrained,Default,Advanced cost,Default,50 Percent by 2050,LNG,2020,NA
 h4r3b1n2c1p2,Blue,Constrained,Default,Advanced cost,Default,50 Percent by 2050,LNG,2025,11.35731
-h4r3b1n2c1p2,Blue,Constrained,Default,Advanced cost,Default,50 Percent by 2050,LNG,2030,15.612120000000001
+h4r3b1n2c1p2,Blue,Constrained,Default,Advanced cost,Default,50 Percent by 2050,LNG,2030,15.61212
 h4r3b1n2c1p2,Blue,Constrained,Default,Advanced cost,Default,50 Percent by 2050,LNG,2035,15.46408
 h4r3b1n2c1p2,Blue,Constrained,Default,Advanced cost,Default,50 Percent by 2050,LNG,2040,17.14655
 h4r3b1n2c1p2,Blue,Constrained,Default,Advanced cost,Default,50 Percent by 2050,LNG,2045,18.56635
@@ -16877,7 +16877,7 @@ h4r3b1n2c2p1,Blue,Constrained,Default,Advanced cost,Constrained,No policy,petrol
 h4r3b1n2c2p1,Blue,Constrained,Default,Advanced cost,Constrained,No policy,petroleum diesel,2045,27.12603
 h4r3b1n2c2p1,Blue,Constrained,Default,Advanced cost,Constrained,No policy,petroleum diesel,2050,26.82306
 h4r3b1n2c2p1,Blue,Constrained,Default,Advanced cost,Constrained,No policy,renewable diesel,2020,NA
-h4r3b1n2c2p1,Blue,Constrained,Default,Advanced cost,Constrained,No policy,renewable diesel,2025,60.061279999999996
+h4r3b1n2c2p1,Blue,Constrained,Default,Advanced cost,Constrained,No policy,renewable diesel,2025,60.06128
 h4r3b1n2c2p1,Blue,Constrained,Default,Advanced cost,Constrained,No policy,renewable diesel,2030,55.97932
 h4r3b1n2c2p1,Blue,Constrained,Default,Advanced cost,Constrained,No policy,renewable diesel,2035,52.23442
 h4r3b1n2c2p1,Blue,Constrained,Default,Advanced cost,Constrained,No policy,renewable diesel,2040,48.89232
@@ -17010,7 +17010,7 @@ h4r3b1n2c2p3,Blue,Constrained,Default,Advanced cost,Constrained,Net Zero by 2050
 h4r3b1n2c2p3,Blue,Constrained,Default,Advanced cost,Constrained,Net Zero by 2050,renewable diesel,2045,44.96046
 h4r3b1n2c2p3,Blue,Constrained,Default,Advanced cost,Constrained,Net Zero by 2050,renewable diesel,2050,45.47346
 h4r3b2n1c1p1,Blue,Constrained,Constrained,Default,Default,No policy,FT biofuels,2020,NA
-h4r3b2n1c1p1,Blue,Constrained,Constrained,Default,Default,No policy,FT biofuels,2025,31.944210000000002
+h4r3b2n1c1p1,Blue,Constrained,Constrained,Default,Default,No policy,FT biofuels,2025,31.94421
 h4r3b2n1c1p1,Blue,Constrained,Constrained,Default,Default,No policy,FT biofuels,2030,32.22548
 h4r3b2n1c1p1,Blue,Constrained,Constrained,Default,Default,No policy,FT biofuels,2035,32.21857
 h4r3b2n1c1p1,Blue,Constrained,Constrained,Default,Default,No policy,FT biofuels,2040,31.9895
@@ -17164,7 +17164,7 @@ h4r3b2n1c1p3,Blue,Constrained,Constrained,Default,Default,Net Zero by 2050,ammon
 h4r3b2n1c1p3,Blue,Constrained,Constrained,Default,Default,Net Zero by 2050,ammonia,2045,45.89032
 h4r3b2n1c1p3,Blue,Constrained,Constrained,Default,Default,Net Zero by 2050,ammonia,2050,46.08716
 h4r3b2n1c1p3,Blue,Constrained,Constrained,Default,Default,Net Zero by 2050,e-diesel,2020,NA
-h4r3b2n1c1p3,Blue,Constrained,Constrained,Default,Default,Net Zero by 2050,e-diesel,2025,89.031720000000007
+h4r3b2n1c1p3,Blue,Constrained,Constrained,Default,Default,Net Zero by 2050,e-diesel,2025,89.03172
 h4r3b2n1c1p3,Blue,Constrained,Constrained,Default,Default,Net Zero by 2050,e-diesel,2030,87.70324
 h4r3b2n1c1p3,Blue,Constrained,Constrained,Default,Default,Net Zero by 2050,e-diesel,2035,86.2543
 h4r3b2n1c1p3,Blue,Constrained,Constrained,Default,Default,Net Zero by 2050,e-diesel,2040,84.3828
@@ -17393,7 +17393,7 @@ h4r3b2n2c1p1,Blue,Constrained,Constrained,Advanced cost,Default,No policy,FT bio
 h4r3b2n2c1p1,Blue,Constrained,Constrained,Advanced cost,Default,No policy,FT biofuels,2035,32.10472
 h4r3b2n2c1p1,Blue,Constrained,Constrained,Advanced cost,Default,No policy,FT biofuels,2040,31.8448
 h4r3b2n2c1p1,Blue,Constrained,Constrained,Advanced cost,Default,No policy,FT biofuels,2045,31.73483
-h4r3b2n2c1p1,Blue,Constrained,Constrained,Advanced cost,Default,No policy,FT biofuels,2050,31.626830000000002
+h4r3b2n2c1p1,Blue,Constrained,Constrained,Advanced cost,Default,No policy,FT biofuels,2050,31.62683
 h4r3b2n2c1p1,Blue,Constrained,Constrained,Advanced cost,Default,No policy,FT biofuels CCS,2020,NA
 h4r3b2n2c1p1,Blue,Constrained,Constrained,Advanced cost,Default,No policy,FT biofuels CCS,2025,35.76356
 h4r3b2n2c1p1,Blue,Constrained,Constrained,Advanced cost,Default,No policy,FT biofuels CCS,2030,35.95303
@@ -17633,7 +17633,7 @@ h4r3b2n2c2p1,Blue,Constrained,Constrained,Advanced cost,Constrained,No policy,pe
 h4r3b2n2c2p1,Blue,Constrained,Constrained,Advanced cost,Constrained,No policy,petroleum diesel,2045,27.12603
 h4r3b2n2c2p1,Blue,Constrained,Constrained,Advanced cost,Constrained,No policy,petroleum diesel,2050,26.8272
 h4r3b2n2c2p1,Blue,Constrained,Constrained,Advanced cost,Constrained,No policy,renewable diesel,2020,NA
-h4r3b2n2c2p1,Blue,Constrained,Constrained,Advanced cost,Constrained,No policy,renewable diesel,2025,60.061279999999996
+h4r3b2n2c2p1,Blue,Constrained,Constrained,Advanced cost,Constrained,No policy,renewable diesel,2025,60.06128
 h4r3b2n2c2p1,Blue,Constrained,Constrained,Advanced cost,Constrained,No policy,renewable diesel,2030,55.97932
 h4r3b2n2c2p1,Blue,Constrained,Constrained,Advanced cost,Constrained,No policy,renewable diesel,2035,52.23442
 h4r3b2n2c2p1,Blue,Constrained,Constrained,Advanced cost,Constrained,No policy,renewable diesel,2040,48.89232
@@ -17711,7 +17711,7 @@ h4r3b2n2c2p3,Blue,Constrained,Constrained,Advanced cost,Constrained,Net Zero by 
 h4r3b2n2c2p3,Blue,Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels,2050,10.61572
 h4r3b2n2c2p3,Blue,Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2020,NA
 h4r3b2n2c2p3,Blue,Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2025,26.75107
-h4r3b2n2c2p3,Blue,Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2030,21.600460000000002
+h4r3b2n2c2p3,Blue,Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2030,21.60046
 h4r3b2n2c2p3,Blue,Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2035,22.48788
 h4r3b2n2c2p3,Blue,Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2040,19.38575
 h4r3b2n2c2p3,Blue,Constrained,Constrained,Advanced cost,Constrained,Net Zero by 2050,FT biofuels CCS,2045,18.23263

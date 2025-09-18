@@ -58,6 +58,10 @@ def Run(df_prices, df_ghg, baseline_cost, baseline_ghg, LHV, RHO, freight_volume
         if scenario_df_prices['Biomass Supply'].iloc[1] in ["Constrained"] and mode in ["Highway", "Rail"]:
             scenario_df_prices.loc[scenario_df_prices['reporting_fuel'].isin(['FT biofuels', 'FT biofuels CCS']), 'price_USDperGJ'] = 2.5 * scenario_df_prices.loc[scenario_df_prices['reporting_fuel'].isin(['FT biofuels', 'FT biofuels CCS']), 'price_USDperGJ']
         
+        # Modify costs of hydrogen for maritime (liquified hydrogen costs are higher)
+        if mode in ["Maritime"]:
+            scenario_df_prices.loc[scenario_df_prices['reporting_fuel'].isin(['hydrogen']), 'price_USDperGJ'] = 2.5 * scenario_df_prices.loc[scenario_df_prices['reporting_fuel'].isin(['hydrogen']), 'price_USDperGJ']
+
         # Sets: Reporting fuels
         reporting_fuels = scenario_df_prices['reporting_fuel'].to_list()
         
